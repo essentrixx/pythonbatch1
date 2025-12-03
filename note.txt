@@ -1,0 +1,15 @@
+>>Encapsulation (Private, Protect, Public)
+
+Encapsulation self.__ is about protecting data inside a class.
+Private properties cannot be accessed directly from outside the class.
+Use a method or function to access a private property. Meaning def function in Class.
+
+data protection,
+validation,
+flexibility: internal change, external no affected
+control
+
+__ private, _ protected(convention) Meaning internal use.
+
+To modify a private property, you can create a "setter method". if else.
+The setter method can also validate the value before setting it:
